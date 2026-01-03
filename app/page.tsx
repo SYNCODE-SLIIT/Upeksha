@@ -244,7 +244,7 @@ export default function Home() {
         <div className="container-custom text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Discuss Your Project?</h2>
           <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
-            Let's work together to bring your engineering vision to life. Contact us today for a consultation.
+            Let&apos;s work together to bring your engineering vision to life. Contact us today for a consultation.
           </p>
           <Button href="/contact" variant="secondary" className="bg-white text-navy hover:bg-white/90">
             Get in Touch

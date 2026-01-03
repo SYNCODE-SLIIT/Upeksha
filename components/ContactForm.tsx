@@ -55,7 +55,7 @@ export default function ContactForm() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
         </svg>
         <h3 className="text-2xl font-bold text-green-800 mb-2">Thank You!</h3>
-        <p className="text-green-700">Your message has been sent successfully. We'll get back to you soon.</p>
+        <p className="text-green-700">Your message has been sent successfully. We&apos;ll get back to you soon.</p>
       </div>
     )
   }

@@ -65,7 +65,7 @@ export default function Contact() {
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Us</h1>
             <p className="text-xl text-white/90 leading-relaxed">
-              Get in touch with our team to discuss your engineering project needs. We're here to help.
+              Get in touch with our team to discuss your engineering project needs. We&apos;re here to help.
             </p>
           </div>
         </div>

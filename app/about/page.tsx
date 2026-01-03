@@ -150,7 +150,7 @@ export default function About() {
         <div className="container-custom text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-navy mb-4">Ready to Work Together?</h2>
           <p className="text-xl text-steel mb-8 max-w-2xl mx-auto">
-            Let's discuss how UPEKSHA Engineering can help bring your project to life.
+            Let&apos;s discuss how UPEKSHA Engineering can help bring your project to life.
           </p>
           <Button href="/contact" variant="primary">
             Contact Us Today
